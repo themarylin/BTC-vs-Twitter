@@ -2,7 +2,8 @@
 
 ##Introduction
 
-In this project, we will be analyzing Bitcoin price changes within a 7 day time-frame and compare that to Twitter sentiment. (24 hours before and 24 hours after significant price changes, determined by +/-10% changes. This analysis will help us better understand how social media has affected, influenced, or maybe even exaggerated price changes through positive or negative sentiment. 
+In this project, we will be analyzing Bitcoin price changes within a 7 day time-frame and compare that to Twitter sentiment.
+This analysis will help us better understand how social media has affected, influenced, or maybe even exaggerated price changes through positive or negative sentiment. 
 
 ###Research Questions
 
